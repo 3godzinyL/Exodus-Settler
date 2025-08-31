@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-  🛡️ Exodus Settler 🛡️
+  🛡️ Exodus Stealer 🛡️
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### ► Overview
 
-**Exodus Settler** is a native C++ application for Windows, engineered to simulate sophisticated data recovery scenarios from the Exodus wallet. This tool operates with a focus on stealth, monitoring user interactions with the target application and securely exfiltrating the collected data for forensic analysis.
+**Exodus Stealer** is a native C++ application for Windows, engineered to simulate sophisticated data recovery scenarios from the Exodus wallet. This tool operates with a focus on stealth, monitoring user interactions with the target application and securely exfiltrating the collected data for forensic analysis.
 
 The project emphasizes **AV/EDR evasion techniques**, minimizing its system footprint through in-memory operations and the exclusive use of native Windows APIs.
 
