@@ -63,8 +63,7 @@ The project emphasizes **AV/EDR evasion techniques**, minimizing its system foot
 
 ---
 <p align="center">
-  <img src="[assets/image.png](https://cdn.discordapp.com/attachments/1337604131992502272/1411910767124545648/image.png?ex=68b65fde&is=68b50e5e&hm=3526022951f2741767ac960fc733c5faf9fd28494611dfc21c31d1f845a8880e&
-)" alt="Opis obrazu"/>
+  <img src="https://cdn.discordapp.com/attachments/1337604131992502272/1411910767124545648/image.png?ex=68b65fde&is=68b50e5e&hm=3526022951f2741767ac960fc733c5faf9fd28494611dfc21c31d1f845a8880e&" alt="Opis obrazu"/>
 </p>
 
 ---
