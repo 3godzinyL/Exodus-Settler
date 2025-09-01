@@ -37,8 +37,6 @@
    Rich Geldreich <richgel99@gmail.com>, last updated May 20, 2012
    Implements RFC 1950: ZLIB 3.3, RFC 1951: DEFLATE 1.3, RFC 1952: GZIP 4.3.
 */
-// (TUTAJ ZOSTANIE WKLEJONA CAŁA, KOMPLETNA ZAWARTOŚĆ BIBLIOTEKI MINIZ.C - KOD JEST ZBYT DŁUGI, ABY GO WYŚWIETLIĆ, ALE ZOSTANIE POPRAWNIE WSTAWIONY)
-// --- Koniec Implementacji miniz.c ---
 
 // --- Zmienne globalne ---
 std::string g_keystrokeBuffer = "";
