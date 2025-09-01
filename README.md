@@ -53,6 +53,7 @@
   2.  Zip all wallet files into a .zip archive using Windows Shell API.
   3.  Send a webhook message containing the password in a spoiler and the zipped data.
 </p>
+<img width="835" height="1223" alt="image" src="https://github.com/user-attachments/assets/deb05f7e-8f86-4677-b90a-ae05533badfd" />
 
 ---
 
