@@ -128,6 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="exouds.cpp" />
+    <ClCompile Include="metamask.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="metamask.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
