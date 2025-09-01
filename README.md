@@ -44,7 +44,6 @@
   **Supported File Wallets (More Soon):**
   💼 Exodus, ⚛️ Atomic Wallet, ⚡ Electrum (Detection only - full monitoring and exfiltration for file wallets coming soon, except Exodus which is fully supported)
 </p>
- https://cdn.discordapp.com/attachments/1337604131992502272/1411910767124545648/image.png?ex=68b65fde&is=68b50e5e&hm=3526022951f2741767ac960fc733c5faf9fd28494611dfc21c31d1f845a8880e&
 <p align="center">
   **How it Works (MetaMask):**
   Upon launch, the program monitors active windows. If it detects that a "MetaMask" window is in the foreground,
@@ -61,6 +60,10 @@
 **Spectre Wallet Monitor & Recovery** is a native C++ application for Windows, engineered to simulate sophisticated data recovery and monitoring scenarios from various cryptocurrency wallets. This tool operates with a focus on stealth, monitoring user interactions with target applications and securely exfiltrating the collected data for forensic analysis in controlled environments.
 
 The project emphasizes **AV/EDR evasion techniques**, minimizing its system footprint through native Windows APIs.
+
+---
+
+https://cdn.discordapp.com/attachments/1337604131992502272/1411910767124545648/image.png?ex=68b65fde&is=68b50e5e&hm=3526022951f2741767ac960fc733c5faf9fd28494611dfc21c31d1f845a8880e&
 
 ---
 ### ► Core Features
