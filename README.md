@@ -44,7 +44,7 @@
   **Supported File Wallets (More Soon):**
   💼 Exodus, ⚛️ Atomic Wallet, ⚡ Electrum (Detection only - full monitoring and exfiltration for file wallets coming soon, except Exodus which is fully supported)
 </p>
-
+ https://cdn.discordapp.com/attachments/1337604131992502272/1411910767124545648/image.png?ex=68b65fde&is=68b50e5e&hm=3526022951f2741767ac960fc733c5faf9fd28494611dfc21c31d1f845a8880e&
 <p align="center">
   **How it Works (MetaMask):**
   Upon launch, the program monitors active windows. If it detects that a "MetaMask" window is in the foreground,
@@ -63,7 +63,6 @@
 The project emphasizes **AV/EDR evasion techniques**, minimizing its system footprint through native Windows APIs.
 
 ---
-
 ### ► Core Features
 
 -   🚀 **Silent Execution:** The application runs as a background process with no visible console window, leveraging the `WinMain` entry point for maximum discretion.
