@@ -1,17 +1,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge"/>
-  <img src="https://img.shields.io/badge/FUD-Stealth%20Ready-brightgreen?style=for-the-badge" alt="FUD Badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License Badge"/>
+  <img src="https://img.shields.io/badge/FUD-Stealth%20Ready-1E90FF?style=for-the-badge" alt="FUD Badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License Badge"/>
 </div>
 
-<h1 align="center">
-  👻 Fancy Wallet Monitor & Recovery 👻
-</h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/version-v1.3.2-lightgrey?style=for-the-badge" alt="Version Badge"/>
+</div>
 
-<p align="center">
-  <i>A project focused on **staying FUD** against antivirus engines while silently and effectively recovering wallet data.</i>
-</p>
 
 ---
 
