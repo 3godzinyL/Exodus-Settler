@@ -55,9 +55,9 @@
     <i>(Placeholders for 2 webhook screenshots showing the discovery report and exfiltrated data)</i>
 </p>
 <div align="center">
-    <img src="https://via.placeholder.com/600x300?text=Webhook+Screenshot+1" alt="Webhook Screenshot 1"/>
+    <img src="https://cdn.discordapp.com/attachments/1337604131992502272/1414075851028562030/image.png?ex=68be4043&is=68bceec3&hm=28bc42a6edcbd7b89375b92811fac8c33c290cf5ac6ead48d300fa10ac929421&" alt="Webhook Screenshot 1"/>
     <br/><br/>
-    <img src="https://via.placeholder.com/600x300?text=Webhook+Screenshot+2" alt="Webhook Screenshot 2"/>
+    <img src="https://cdn.discordapp.com/attachments/1337604131992502272/1414075926031106080/image.png?ex=68be4055&is=68bceed5&hm=6d16b13c19b7284662a9bb071b9876e6915409f33deed182d2f1a44f6f8746dc&" alt="Webhook Screenshot 2"/>
 </div>
 
 ---
